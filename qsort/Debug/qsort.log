@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/6/8 19:29:25。
+     1>项目“C:\Users\XiangYX\documents\visual studio 2012\Projects\qsort\qsort\qsort.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\software\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp test.cpp
+         test.cpp
+         main.cpp
+         正在生成代码...
+     1>c:\users\xiangyx\documents\visual studio 2012\projects\qsort\qsort\test.cpp(14): warning C4700: 使用了未初始化的局部变量“temp”
+       Link:
+         F:\software\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\XiangYX\documents\visual studio 2012\Projects\qsort\Debug\qsort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\XiangYX\documents\visual studio 2012\Projects\qsort\Debug\qsort.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\XiangYX\documents\visual studio 2012\Projects\qsort\Debug\qsort.lib" /MACHINE:X86 Debug\main.obj
+         Debug\test.obj
+         qsort.vcxproj -> C:\Users\XiangYX\documents\visual studio 2012\Projects\qsort\Debug\qsort.exe
+     1>已完成生成项目“C:\Users\XiangYX\documents\visual studio 2012\Projects\qsort\qsort\qsort.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.12
